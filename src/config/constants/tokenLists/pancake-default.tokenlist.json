@@ -26,7 +26,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/brise/0x1eb697Cb6F457F6a65C682F7f7c65F9f2E622A34/logo.png"
     },
-
+    {
+      "name": "youngparrotnft",
+      "symbol": "YPC",
+      "address": "0x11203a00a9134db8586381c4b2fca0816476b3fd",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://youngparrotnft.com/logo200.png"
+    },
     {
       "name": "USD Coin",
       "symbol": "USDC",
